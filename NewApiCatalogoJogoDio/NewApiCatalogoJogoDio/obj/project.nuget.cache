@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LiZINAkIfQc8agFwDDALfKY+WTR6AU/yqCtch/a6a//dk5LPcA3nr6vT77YCZduR+aZclKozm/1Z83D3Z1Hdgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexandre\\source\\repos\\NewApiCatalogoJogoDio\\NewApiCatalogoJogoDio\\NewApiCatalogoJogoDio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexandre\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexandre\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Alexandre\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Alexandre\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Alexandre\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Alexandre\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
